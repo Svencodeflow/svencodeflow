@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svencodeflow" alt="svencodeflow" /></a> </p>
 
-- 🔭 Ich arbeite derzeit an [Empirenetwork](https://github.com/Svencodeflow/empirenetwork)
-
 - 🌱 Mein wissen erstreckt sich über **Javascript, React, MERN**
 
 - 🌱 Ich lerne derzeit **Typescript, Next.js**
