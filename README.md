@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svencodeflow" alt="svencodeflow" /></a> </p>
 
-- 🌱 Mein wissen erstreckt sich über **Javascript, React, MERN**
-
-- 🌱 Ich lerne derzeit **Typescript, Next.js**
+- 🌱 Mein wissen erstreckt sich über **Javascript, Java, Spring, React, MERN**
 
 - 📫 Wie Sie mich erreichen **schlaak1906@gmail.com**
 
